@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lMf8XL3yf80P/NHhtNVWfcDG/RuZAIuEzz2dDofQjT4=",
+  "Source": "AppSpotify",
+  "BasePath": "_content/AppSpotify",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
