@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "lMf8XL3yf80P/NHhtNVWfcDG/RuZAIuEzz2dDofQjT4=",
+  "Hash": "LeThqJyEM/vv4bQIGVOnDnDuIXIddF6zEu/Ck0oSE2U=",
   "Source": "AppSpotify",
   "BasePath": "_content/AppSpotify",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppSpotify\\wwwroot",
+      "Source": "AppSpotify",
+      "ContentRoot": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "images/9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png"
+    },
+    {
+      "Identity": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3"
+    }
+  ]
 }

@@ -2,16 +2,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 
 namespace AppSpotify.Models
 {
-    public class Musica
+    public class MusicaOutputDTO
     {
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Artista { get; set; }
+        public string Link { get; set; } // Necessário para o cliente acessar o arquivo
         public string Imagem { get; set; }
-        public string Link { get; set; }        
     }
 }

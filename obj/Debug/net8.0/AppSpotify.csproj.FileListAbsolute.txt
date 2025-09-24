@@ -167,3 +167,5 @@ C:\Users\429438624\Documents\Api\AppSpotify\obj\Debug\net8.0\refint\AppSpotify.d
 C:\Users\429438624\Documents\Api\AppSpotify\obj\Debug\net8.0\AppSpotify.pdb
 C:\Users\429438624\Documents\Api\AppSpotify\obj\Debug\net8.0\AppSpotify.genruntimeconfig.cache
 C:\Users\429438624\Documents\Api\AppSpotify\obj\Debug\net8.0\ref\AppSpotify.dll
+C:\Users\429438624\Documents\Api\AppSpotify\bin\Debug\net8.0\TagLibSharp.dll
+C:\Users\429438624\Documents\Api\AppSpotify\bin\Debug\net8.0\AppSpotify.staticwebassets.runtime.json

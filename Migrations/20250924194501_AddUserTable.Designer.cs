@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AppSpotify.Migrations
 {
     [DbContext(typeof(SpotifyContext))]
-    [Migration("20250923190513_AddUserTable")]
+    [Migration("20250924194501_AddUserTable")]
     partial class AddUserTable
     {
         /// <inheritdoc />
@@ -35,9 +35,6 @@ namespace AppSpotify.Migrations
                     b.Property<string>("Artista")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<float>("Duracao")
-                        .HasColumnType("real");
 
                     b.Property<string>("Imagem")
                         .IsRequired()

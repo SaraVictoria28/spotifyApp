@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "PackagePath": "staticwebassets\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png"
+    },
+    {
+      "Id": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "PackagePath": "staticwebassets\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppSpotify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AppSpotify.props",
+      "PackagePath": "build\\AppSpotify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AppSpotify.props",
+      "PackagePath": "buildMultiTargeting\\AppSpotify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AppSpotify.props",
+      "PackagePath": "buildTransitive\\AppSpotify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

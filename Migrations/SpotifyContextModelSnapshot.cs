@@ -33,9 +33,6 @@ namespace AppSpotify.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<float>("Duracao")
-                        .HasColumnType("real");
-
                     b.Property<string>("Imagem")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
