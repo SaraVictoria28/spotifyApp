@@ -1,12 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./">
+    <link rel="stylesheet" href="./css/style.css">
     <title>Document</title>
 </head>
+
 <body>
-    <a href="."></a>
+    <div id="cadastro-from" class="modal"></div>
+
+    <h2>Cadastrar Nova Música</h2>
+    <form id="form-cadastro">
+        <input type="text" id="titulo" placeholder="Título da Música" required>
+        <input type="text" id="artista" placeholder="Artista" required>
+        <input type="number" id="usuarioId" placeholder="Seu ID de Usuário (Ex: 1)" required>
+
+        <label>Arquivo MP3:</label>
+        <input type="file" id="musicaFile" accept=".mp3" required>
+
+        <label>Capa (Imagem):</label>
+        <input type="file" id="imagemFile" accept="image/*" required>
+
+        <button type="submit">Enviar Música</button>
+        <button type="button" onclick="document.getElementById('cadastro-form').style.display='none'">Cancelar</button>
+        <p id="feedback"></p>
+    </form>
+
+    <script src="./js/script.js"></script>
 </body>
+
 </html>
