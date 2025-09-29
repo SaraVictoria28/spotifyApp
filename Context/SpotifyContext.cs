@@ -12,6 +12,6 @@ namespace AppSpotify.Context
         public SpotifyContext(DbContextOptions<SpotifyContext> options) : base(options) { }
 
         public DbSet<Musica> Musicas { get; set; }
-        public DbSet<Usuario> Usuarios { get; set; }
+        // public DbSet<Usuario> Usuarios { get; set; }
     }
 }

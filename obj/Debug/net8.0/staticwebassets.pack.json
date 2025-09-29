@@ -1,12 +1,56 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg",
+      "PackagePath": "staticwebassets\\images\\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg",
+      "PackagePath": "staticwebassets\\images\\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
       "PackagePath": "staticwebassets\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png"
     },
     {
-      "Id": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\a443ba07-c6c0-4202-8b9a-418435e98103.jpg",
+      "PackagePath": "staticwebassets\\images\\a443ba07-c6c0-4202-8b9a-418435e98103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg",
+      "PackagePath": "staticwebassets\\images\\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png",
+      "PackagePath": "staticwebassets\\images\\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3",
+      "PackagePath": "staticwebassets\\musicas\\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3",
+      "PackagePath": "staticwebassets\\musicas\\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
       "PackagePath": "staticwebassets\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3",
+      "PackagePath": "staticwebassets\\musicas\\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3",
+      "PackagePath": "staticwebassets\\musicas\\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3"
+    },
+    {
+      "Id": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3",
+      "PackagePath": "staticwebassets\\musicas\\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppSpotify.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppSpotify.Microsoft.AspNetCore.StaticWebAssets.props",

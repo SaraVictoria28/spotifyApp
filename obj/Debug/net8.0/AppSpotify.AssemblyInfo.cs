@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppSpotify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a9d2a1e44868bf23ea248305bd3573121dd1ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dca4d4d335951670e9b8fc2b80a74543f7f73f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppSpotify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppSpotify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,7 +10,7 @@ namespace AppSpotify.Models
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Artista { get; set; }
-        public string Link { get; set; } // Necessário para o cliente acessar o arquivo
+        public string Link { get; set; }
         public string Imagem { get; set; }
     }
 }

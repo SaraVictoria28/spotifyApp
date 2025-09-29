@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LeThqJyEM/vv4bQIGVOnDnDuIXIddF6zEu/Ck0oSE2U=",
+  "Hash": "/zc061ZR7o6CLY1C4urstXTAjOuMPvC7/OPxzmalRAk=",
   "Source": "AppSpotify",
   "BasePath": "_content/AppSpotify",
   "Mode": "Default",
@@ -10,49 +10,1249 @@
     {
       "Name": "AppSpotify\\wwwroot",
       "Source": "AppSpotify",
-      "ContentRoot": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
       "BasePath": "_content/AppSpotify",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg",
       "SourceId": "AppSpotify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
       "BasePath": "_content/AppSpotify",
-      "RelativePath": "images/9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "RelativePath": "images/5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "qjwu0tz57z",
+      "Integrity": "RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "images/8ca6d630-7ee3-4cfe-8689-6bb513ebe699#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qjwu0tz57z",
+      "Integrity": "RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "images/9fd92e86-70ea-43ec-97dc-6e710c213bd6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2husbs7zen",
+      "Integrity": "RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png"
     },
     {
-      "Identity": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\a443ba07-c6c0-4202-8b9a-418435e98103.jpg",
       "SourceId": "AppSpotify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\429438624\\Documents\\Api\\AppSpotify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
       "BasePath": "_content/AppSpotify",
-      "RelativePath": "musicas/575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "RelativePath": "images/a443ba07-c6c0-4202-8b9a-418435e98103#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "imoaj48p0b",
+      "Integrity": "Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a443ba07-c6c0-4202-8b9a-418435e98103.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "images/ec781eb4-aabb-42b9-abfa-110538428fa6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imoaj48p0b",
+      "Integrity": "Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "images/fe0982fb-2942-4acb-bf06-a73150ec9fc5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2husbs7zen",
+      "Integrity": "RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/018fd1e9-fd71-4a85-a816-7afa1cd2df35#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1e8ek7narq",
+      "Integrity": "B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicas\\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1e8ek7narq",
+      "Integrity": "B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicas\\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/575cae00-ece3-47cd-94d4-acf60f4bfa9d#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k984cwb5pc",
+      "Integrity": "2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/7abfb0a9-cd7d-481e-9cf8-131f31aee42f#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k984cwb5pc",
+      "Integrity": "2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicas\\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/8bf1138a-b5e0-43e2-8027-352e466ff5f9#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1s8z7d83tu",
+      "Integrity": "z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicas\\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3",
+      "SourceId": "AppSpotify",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\",
+      "BasePath": "_content/AppSpotify",
+      "RelativePath": "musicas/ddef0589-ce1c-4f03-aeff-dba28e13f452#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1s8z7d83tu",
+      "Integrity": "z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\musicas\\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 13:23:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM="
+        }
+      ]
+    },
+    {
+      "Route": "images/5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.qjwu0tz57z.jpeg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 13:23:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qjwu0tz57z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM="
+        }
+      ]
+    },
+    {
+      "Route": "images/8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM="
+        }
+      ]
+    },
+    {
+      "Route": "images/8ca6d630-7ee3-4cfe-8689-6bb513ebe699.qjwu0tz57z.jpeg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qjwu0tz57z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM="
+        }
+      ]
+    },
+    {
+      "Route": "images/9fd92e86-70ea-43ec-97dc-6e710c213bd6.2husbs7zen.png",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2husbs7zen"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9fd92e86-70ea-43ec-97dc-6e710c213bd6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/a443ba07-c6c0-4202-8b9a-418435e98103.imoaj48p0b.jpg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\a443ba07-c6c0-4202-8b9a-418435e98103.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:50:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imoaj48p0b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a443ba07-c6c0-4202-8b9a-418435e98103.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM="
+        }
+      ]
+    },
+    {
+      "Route": "images/a443ba07-c6c0-4202-8b9a-418435e98103.jpg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\a443ba07-c6c0-4202-8b9a-418435e98103.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:50:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ec781eb4-aabb-42b9-abfa-110538428fa6.imoaj48p0b.jpg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 07:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imoaj48p0b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ec781eb4-aabb-42b9-abfa-110538428fa6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ec781eb4-aabb-42b9-abfa-110538428fa6.jpg",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 07:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM="
+        }
+      ]
+    },
+    {
+      "Route": "images/fe0982fb-2942-4acb-bf06-a73150ec9fc5.2husbs7zen.png",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2husbs7zen"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fe0982fb-2942-4acb-bf06-a73150ec9fc5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/fe0982fb-2942-4acb-bf06-a73150ec9fc5.png",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\images\\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/018fd1e9-fd71-4a85-a816-7afa1cd2df35.1e8ek7narq.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4994342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1e8ek7narq"
+        },
+        {
+          "Name": "label",
+          "Value": "musicas/018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4994342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.1e8ek7narq.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4994342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 13:23:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1e8ek7narq"
+        },
+        {
+          "Name": "label",
+          "Value": "musicas/51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4994342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 13:23:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/575cae00-ece3-47cd-94d4-acf60f4bfa9d.k984cwb5pc.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3877796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k984cwb5pc"
+        },
+        {
+          "Name": "label",
+          "Value": "musicas/575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3877796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/7abfb0a9-cd7d-481e-9cf8-131f31aee42f.k984cwb5pc.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3877796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k984cwb5pc"
+        },
+        {
+          "Name": "label",
+          "Value": "musicas/7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3877796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/8bf1138a-b5e0-43e2-8027-352e466ff5f9.1s8z7d83tu.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2465705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:50:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1s8z7d83tu"
+        },
+        {
+          "Name": "label",
+          "Value": "musicas/8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2465705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Sep 2025 22:50:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/ddef0589-ce1c-4f03-aeff-dba28e13f452.1s8z7d83tu.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2465705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 07:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1s8z7d83tu"
+        },
+        {
+          "Name": "label",
+          "Value": "musicas/ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA="
+        }
+      ]
+    },
+    {
+      "Route": "musicas/ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3",
+      "AssetFile": "C:\\Users\\sara0\\OneDrive\\Documentos\\Estudo\\spotifyApp\\wwwroot\\musicas\\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2465705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 07:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA="
+        }
+      ]
     }
   ]
 }

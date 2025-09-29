@@ -4,26 +4,37 @@ using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Adiciona serviços ao contêiner.
 
-// A chamada duplicada para AddControllers foi removida.
 builder.Services.AddDbContext<SpotifyContext>(options =>
-  options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao"))
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao"))
 );
 
-// Mantenha apenas esta chamada, que configura os controladores e o JSON.
+// Configura controladores e serialização JSON para evitar ciclos de referência.
 builder.Services.AddControllers()
-  .AddJsonOptions(options =>
-    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles
-  );
+    .AddJsonOptions(options =>
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles
+    );
 
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+// Configura CORS (Cross-Origin Resource Sharing)
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("PermitirTudo", policy =>
+    {
+        policy.AllowAnyOrigin() // Permite requisições de qualquer origem (muito aberto para produção)
+              .AllowAnyMethod()  // Permite qualquer método HTTP (GET, POST, PUT, DELETE, etc.)
+              .AllowAnyHeader(); // Permite qualquer cabeçalho na requisição
+    });
+});
+
+// Configuração do Swagger/OpenAPI
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configura o pipeline de requisição HTTP.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -32,7 +43,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// Habilita servir arquivos estáticos (necessário para acessar as pastas /musicas e /images)
 app.UseStaticFiles();
+
+// AQUI: Aplica a política de CORS definida. ESSENCIAL para permitir requisições cross-origin.
+app.UseCors("PermitirTudo");
 
 app.UseAuthorization();
 

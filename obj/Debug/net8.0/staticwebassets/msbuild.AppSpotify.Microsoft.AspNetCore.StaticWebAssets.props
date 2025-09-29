@@ -1,6 +1,42 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>images/5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qjwu0tz57z</Fingerprint>
+      <Integrity>RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5b7c106c-4afe-4939-8ca9-d9f3ca0f3f77.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>images/8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qjwu0tz57z</Fingerprint>
+      <Integrity>RgQ000+2GAEqKk2KIb9rr0fkA9Y2IDbsC+sv5Yv9fRM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8ca6d630-7ee3-4cfe-8689-6bb513ebe699.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png'))">
       <SourceType>Package</SourceType>
       <SourceId>AppSpotify</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
@@ -12,11 +48,103 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2husbs7zen</Fingerprint>
+      <Integrity>RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9fd92e86-70ea-43ec-97dc-6e710c213bd6.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\musicas\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\a443ba07-c6c0-4202-8b9a-418435e98103.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>images/a443ba07-c6c0-4202-8b9a-418435e98103.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>imoaj48p0b</Fingerprint>
+      <Integrity>Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\a443ba07-c6c0-4202-8b9a-418435e98103.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>images/ec781eb4-aabb-42b9-abfa-110538428fa6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>imoaj48p0b</Fingerprint>
+      <Integrity>Kt7RwIm4CogIEmiaF+KRjQXRPLM9SAiBzwdzm7V7ccM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ec781eb4-aabb-42b9-abfa-110538428fa6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>images/fe0982fb-2942-4acb-bf06-a73150ec9fc5.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2husbs7zen</Fingerprint>
+      <Integrity>RpTe3QlNuqNzF3wIBFwAjUOSLckr5HJjo9x997OGNm4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fe0982fb-2942-4acb-bf06-a73150ec9fc5.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>musicas/018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1e8ek7narq</Fingerprint>
+      <Integrity>B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\018fd1e9-fd71-4a85-a816-7afa1cd2df35.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>musicas/51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1e8ek7narq</Fingerprint>
+      <Integrity>B97OcJZmE97T8KS3IvLNuLHnfiG3dp3heSkM7qCAJIE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\51fdd8d1-a9a1-4f2c-a15c-8c0c76994d6a.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3'))">
       <SourceType>Package</SourceType>
       <SourceId>AppSpotify</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
@@ -28,9 +156,65 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>k984cwb5pc</Fingerprint>
+      <Integrity>2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\musicas\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\575cae00-ece3-47cd-94d4-acf60f4bfa9d.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>musicas/7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>k984cwb5pc</Fingerprint>
+      <Integrity>2P6ANnnxe8h+KDZjEvj6ws5cx8kbd/84PCq+LC4lK/c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\7abfb0a9-cd7d-481e-9cf8-131f31aee42f.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>musicas/8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1s8z7d83tu</Fingerprint>
+      <Integrity>z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\8bf1138a-b5e0-43e2-8027-352e466ff5f9.mp3'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AppSpotify</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AppSpotify</BasePath>
+      <RelativePath>musicas/ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1s8z7d83tu</Fingerprint>
+      <Integrity>z+3wNFst3IelAuDZecfRymYtj479Ni5qV589wM6PfRA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\musicas\ddef0589-ce1c-4f03-aeff-dba28e13f452.mp3'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
